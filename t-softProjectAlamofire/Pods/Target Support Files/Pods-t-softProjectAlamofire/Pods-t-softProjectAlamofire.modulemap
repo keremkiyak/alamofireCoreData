@@ -1,0 +1,6 @@
+framework module Pods_t_softProjectAlamofire {
+  umbrella header "Pods-t-softProjectAlamofire-umbrella.h"
+
+  export *
+  module * { export * }
+}
