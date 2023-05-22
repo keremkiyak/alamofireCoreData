@@ -1,1 +1,2 @@
-# alamofireCoreData![Simulator Screen Recording - iPhone 14 Pro - 2023-05-22 at 15 24 07](https://github.com/keremkiyak/alamofireCoreData/assets/110934008/ee9f84ac-e16b-4544-9282-6d9b2e998612)
+# alamofireCoreData!
+![Simulator Screen Recording - iPhone 14 Pro - 2023-05-22 at 16 03 06](https://github.com/keremkiyak/alamofireCoreData/assets/110934008/39ebde00-850f-4ca7-9923-8d8fb81ba3ab)
